@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Bbuno\\Desktop\\Seminar_05\\Task_34\\Task_34.csproj": {}
+    "C:\\Users\\Bbuno\\Desktop\\Seminar_05\\Task_34\\Task_34.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Bbuno\\Desktop\\Seminar_05\\Task_34\\Task_34.csproj": {
+    "C:\\Users\\Bbuno\\Desktop\\Seminar_05\\Task_34\\Task_34.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Bbuno\\Desktop\\Seminar_05\\Task_34\\Task_34.csproj",
+        "projectUniqueName": "C:\\Users\\Bbuno\\Desktop\\Seminar_05\\Task_34\\Task_34.csproj",
         "projectName": "Task_34",
-        "projectPath": "c:\\Users\\Bbuno\\Desktop\\Seminar_05\\Task_34\\Task_34.csproj",
+        "projectPath": "C:\\Users\\Bbuno\\Desktop\\Seminar_05\\Task_34\\Task_34.csproj",
         "packagesPath": "C:\\Users\\Bbuno\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Bbuno\\Desktop\\Seminar_05\\Task_34\\obj\\",
+        "outputPath": "C:\\Users\\Bbuno\\Desktop\\Seminar_05\\Task_34\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "E:\\Program Files (х86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
