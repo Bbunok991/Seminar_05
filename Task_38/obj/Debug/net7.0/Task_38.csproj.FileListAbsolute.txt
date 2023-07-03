@@ -1,0 +1,15 @@
+C:\Users\Bbuno\Desktop\Seminar_05\Task_38\obj\Debug\net7.0\Task_38.csproj.AssemblyReference.cache
+C:\Users\Bbuno\Desktop\Seminar_05\Task_38\obj\Debug\net7.0\Task_38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bbuno\Desktop\Seminar_05\Task_38\obj\Debug\net7.0\Task_38.AssemblyInfoInputs.cache
+C:\Users\Bbuno\Desktop\Seminar_05\Task_38\obj\Debug\net7.0\Task_38.AssemblyInfo.cs
+C:\Users\Bbuno\Desktop\Seminar_05\Task_38\obj\Debug\net7.0\Task_38.csproj.CoreCompileInputs.cache
+C:\Users\Bbuno\Desktop\Seminar_05\Task_38\bin\Debug\net7.0\Task_38.exe
+C:\Users\Bbuno\Desktop\Seminar_05\Task_38\bin\Debug\net7.0\Task_38.deps.json
+C:\Users\Bbuno\Desktop\Seminar_05\Task_38\bin\Debug\net7.0\Task_38.runtimeconfig.json
+C:\Users\Bbuno\Desktop\Seminar_05\Task_38\bin\Debug\net7.0\Task_38.dll
+C:\Users\Bbuno\Desktop\Seminar_05\Task_38\bin\Debug\net7.0\Task_38.pdb
+C:\Users\Bbuno\Desktop\Seminar_05\Task_38\obj\Debug\net7.0\Task_38.dll
+C:\Users\Bbuno\Desktop\Seminar_05\Task_38\obj\Debug\net7.0\refint\Task_38.dll
+C:\Users\Bbuno\Desktop\Seminar_05\Task_38\obj\Debug\net7.0\Task_38.pdb
+C:\Users\Bbuno\Desktop\Seminar_05\Task_38\obj\Debug\net7.0\Task_38.genruntimeconfig.cache
+C:\Users\Bbuno\Desktop\Seminar_05\Task_38\obj\Debug\net7.0\ref\Task_38.dll
